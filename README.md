@@ -1,1 +1,1 @@
-# curriculo_dev
+Curriculo Desenvolvedor PHP/Python
