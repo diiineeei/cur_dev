@@ -9,9 +9,14 @@
 /* styles.css */
 /* ======= Base ======= */
 body {
+  margin: 0;
+  background-image: url('assets/images/stars.jpg');
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: center;
+
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
